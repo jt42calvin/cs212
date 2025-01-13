@@ -1,0 +1,30 @@
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\bin\Debug\net6.0\Program_1.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\bin\Debug\net6.0\Program_1.deps.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\bin\Debug\net6.0\Program_1.runtimeconfig.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\bin\Debug\net6.0\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\bin\Debug\net6.0\Program_1.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.csproj.AssemblyReference.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.AssemblyInfoInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.AssemblyInfo.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\refint\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\Program_1.genruntimeconfig.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program_1\obj\Debug\net6.0\ref\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\bin\Debug\net6.0\Program_1.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\bin\Debug\net6.0\Program_1.deps.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\bin\Debug\net6.0\Program_1.runtimeconfig.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\bin\Debug\net6.0\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\bin\Debug\net6.0\Program_1.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.csproj.AssemblyReference.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.AssemblyInfoInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.AssemblyInfo.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.csproj.CoreCompileInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\refint\Program_1.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\Program_1.genruntimeconfig.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Tocila Program 1\Program_1\obj\Debug\net6.0\ref\Program_1.dll

@@ -1,0 +1,29 @@
+C:\Users\hplantin\Desktop\Fern\bin\Debug\Fern.exe.config
+C:\Users\hplantin\Desktop\Fern\bin\Debug\Fern.exe
+C:\Users\hplantin\Desktop\Fern\bin\Debug\Fern.pdb
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.csprojAssemblyReference.cache
+C:\Users\hplantin\Desktop\Fern\obj\Debug\App.g.cs
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern_MarkupCompile.cache
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.Properties.Resources.resources
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.csproj.GenerateResource.cache
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.csproj.CoreCompileInputs.cache
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.exe
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.pdb
+C:\Users\hplantin\Desktop\Fern\obj\Debug\MainWindow.baml
+C:\Users\hplantin\Desktop\Fern\obj\Debug\MainWindow.g.cs
+C:\Users\hplantin\Desktop\Fern\obj\Debug\Fern.g.resources
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\bin\Debug\Fern.exe.config
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\bin\Debug\Fern.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\bin\Debug\Fern.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.csproj.AssemblyReference.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.csproj.SuggestedBindingRedirects.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\MainWindow.baml
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\MainWindow.g.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\App.g.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern_MarkupCompile.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.g.resources
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.Properties.Resources.resources
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.csproj.GenerateResource.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.csproj.CoreCompileInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 3 Fractal Fern\Fern-proj\Fern\obj\Debug\Fern.pdb

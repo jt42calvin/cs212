@@ -1,0 +1,15 @@
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\bin\Debug\net6.0\Mankalah Tester.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\bin\Debug\net6.0\Mankalah Tester.deps.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\bin\Debug\net6.0\Mankalah Tester.runtimeconfig.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\bin\Debug\net6.0\Mankalah Tester.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\bin\Debug\net6.0\Mankalah Tester.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.csproj.AssemblyReference.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.AssemblyInfoInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.AssemblyInfo.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.csproj.CoreCompileInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\refint\Mankalah Tester.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\Mankalah Tester.genruntimeconfig.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 5 Mankalah\prog5\prog5\Mankalah Tester\Mankalah Tester\obj\Debug\net6.0\ref\Mankalah Tester.dll

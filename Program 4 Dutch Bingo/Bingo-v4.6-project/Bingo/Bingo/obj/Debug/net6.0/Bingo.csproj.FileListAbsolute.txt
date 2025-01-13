@@ -1,0 +1,30 @@
+C:\Users\hplantin\Desktop\Bingo\Bingo\bin\Debug\net6.0\Bingo.exe
+C:\Users\hplantin\Desktop\Bingo\Bingo\bin\Debug\net6.0\Bingo.deps.json
+C:\Users\hplantin\Desktop\Bingo\Bingo\bin\Debug\net6.0\Bingo.runtimeconfig.json
+C:\Users\hplantin\Desktop\Bingo\Bingo\bin\Debug\net6.0\Bingo.dll
+C:\Users\hplantin\Desktop\Bingo\Bingo\bin\Debug\net6.0\Bingo.pdb
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.AssemblyReference.cache
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfoInputs.cache
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfo.cs
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.dll
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\refint\Bingo.dll
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.pdb
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\Bingo.genruntimeconfig.cache
+C:\Users\hplantin\Desktop\Bingo\Bingo\obj\Debug\net6.0\ref\Bingo.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\bin\Debug\net6.0\Bingo.exe
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\bin\Debug\net6.0\Bingo.deps.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\bin\Debug\net6.0\Bingo.runtimeconfig.json
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\bin\Debug\net6.0\Bingo.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\bin\Debug\net6.0\Bingo.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.AssemblyReference.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfoInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.AssemblyInfo.cs
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\refint\Bingo.dll
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.pdb
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\Bingo.genruntimeconfig.cache
+C:\Users\jt42\OneDrive - Calvin University\cs212\Program 4 Dutch Bingo\Bingo-v4.6-project\Bingo\Bingo\obj\Debug\net6.0\ref\Bingo.dll
