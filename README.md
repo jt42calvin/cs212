@@ -1,6 +1,4 @@
 # cs212
-cs212
-
 This repo is a dump of all my projects from CS212 - Data Structures & Algorithms.
 
 Program 1 tests different time complexities of algorithms and graphs them using Microsoft Excel to visually see how time complexities scale as inputs get larger over time.
